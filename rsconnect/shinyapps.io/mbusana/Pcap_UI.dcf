@@ -1,0 +1,12 @@
+name: Pcap_UI
+title: Pcap_UI
+username: mbusana
+account: mbusana
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13985513
+bundleId: 9843109
+url: https://mbusana.shinyapps.io/Pcap_UI/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
